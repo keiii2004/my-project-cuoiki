@@ -1,0 +1,314 @@
+{
+  "products": [
+    {
+      "name": "Mì Kim Chi Đặc Biệt",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731292844/ncqekumnwfb8c2chvqxw.webp",
+      "describe": "Mì Chinnoo, bò Mỹ, tôm, mực, chả cá Hàn Quốc, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 69000,
+      "quality": 10,
+      "type": "micay",
+      "id": "1"
+    },
+    {
+      "name": "Mì Kim Chi Đùi Gà",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731292899/jvh9zim0ppdi9aqymey9.webp",
+      "describe": "Mì Chinnoo, đùi gà, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 55000,
+      "quality": 4,
+      "type": "micay",
+      "id": "2"
+    },
+    {
+      "name": "Mì Kim Chi Hải Sản",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731292944/zzj01kggrj9imeujqr20.webp",
+      "describe": "Mì Chinnoo, tôm, mực, chả cá Hàn Quốc, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 62000,
+      "quality": 34,
+      "type": "micay",
+      "id": "3"
+    },
+    {
+      "name": "Mì Kim Chi Bò Mỹ",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731292970/c8tr9qa4rdrmjfs1ajsz.webp",
+      "describe": "Mì Chinnoo, bò Mỹ, xúc xích, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 59000,
+      "quality": 91,
+      "type": "micay",
+      "id": "4"
+    },
+    {
+      "name": "Mì Kim Chi Cá",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731292997/qvt2nzo4pdewm0d8cwku.webp",
+      "describe": "Mì Chinnoo, cá, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 49000,
+      "quality": 75,
+      "type": "micay",
+      "id": "5"
+    },
+    {
+      "name": "Mì Kim Chi Gogi",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293029/eohkwiin6eqs0thgsh4o.webp",
+      "describe": "Mì Chinnoo, heo, cá viên, kim chi, cải thìa, nấm, bắp cải tím, xúc xích.",
+      "price": 49000,
+      "quality": 10,
+      "type": "micay",
+      "id": "6"
+    },
+    {
+      "name": "Mì Soyum Đặc Biệt",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293062/nwdomcxhh8xvkalfjgem.webp",
+      "describe": "Mì Chinnoo, bò Mỹ, tôm, mực, chả cá Hàn Quốc, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 69000,
+      "quality": 18,
+      "type": "micay",
+      "id": "7"
+    },
+    {
+      "name": "Mì Soyum Hải Sản",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293086/edal02eptbm4vvefmcot.webp",
+      "describe": "Mì Chinnoo, tôm, mực, chả cá Hàn Quốc, cá viên, kim chi, cài thìa, nấm, bắp cải tím.",
+      "price": 62000,
+      "quality": 76,
+      "type": "micay",
+      "id": "8"
+    },
+    {
+      "name": "Mì Soyum Đùi Gà",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293121/ypuuk4qzlr2lymqlxjam.webp",
+      "describe": "Mì Chinnoo, đùi gà, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 59000,
+      "quality": 53,
+      "type": "micay",
+      "id": "9"
+    },
+    {
+      "name": "Mì Soyum Bò Mỹ",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293146/rphsnbjdydlmyg0bzrsx.webp",
+      "describe": "Mì Chinnoo, bò Mỹ, xúc xích, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 59000,
+      "quality": 54,
+      "type": "micay",
+      "id": "10"
+    },
+    {
+      "name": "Mì Sincay Hải Sản",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293185/n0ouv1od69vcwkfwpv29.webp",
+      "describe": "Mì Chinnoo, tôm, mực, chả cá Hàn Quốc, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 62000,
+      "quality": 90,
+      "type": "micay",
+      "id": "11"
+    },
+    {
+      "name": "Mì Sincay Đùi Gà",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293226/ynmpcpriktcefcq70gnh.webp",
+      "describe": "Mì Chinnoo, đùi gà, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 59000,
+      "quality": 51,
+      "type": "micay",
+      "id": "12"
+    },
+    {
+      "name": "Mì Sincay Bò Mỹ",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293251/sejvzgkwyq3ezxe8y9g4.webp",
+      "describe": "Mì Chinnoo, bò Mỹ, xúc xích, cá viên, kim chi, cải thìa, nấm, bắp cải tím.",
+      "price": 59000,
+      "quality": 46,
+      "type": "micay",
+      "id": "13"
+    },
+    {
+      "name": "Nước Gạo Hàn Quốc",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293537/sro5fxljqsbaeijjjr1k.webp",
+      "describe": "달콤한 쌀 음료",
+      "price": 35000,
+      "quality": 42,
+      "type": "nuoc",
+      "id": "14"
+    },
+    {
+      "name": "Nước Gạo Hoa Anh Đào",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293583/lbxq9mlxk9saftaqcl5c.webp",
+      "describe": "사쿠라 찹쌀 음료",
+      "price": 35000,
+      "quality": 56,
+      "type": "nuoc",
+      "id": "15"
+    },
+    {
+      "name": "Soda Dâu Dưa Lưới",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293609/buntlfcj8i4eu7dlnykd.webp",
+      "describe": "딸기 메론 소다",
+      "price": 35000,
+      "quality": 27,
+      "type": "nuoc",
+      "id": "16"
+    },
+    {
+      "name": "Soda Dừa Dứa Đác Thơm",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293635/kkvtbe4se5ysukrrfews.webp",
+      "describe": "파인애플 코코넛 소다와 사탕야자 씨앗",
+      "price": 35000,
+      "quality": 87,
+      "type": "nuoc",
+      "id": "17"
+    },
+    {
+      "name": "Soda Thơm Lừng",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293673/mfxwtbv9neyf6vacbmjr.webp",
+      "describe": "멜론 파인애플 소다",
+      "price": 35000,
+      "quality": 16,
+      "type": "nuoc",
+      "id": "18"
+    },
+    {
+      "name": "Sting",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293705/a5kdxqm0hgmtxojrlqmv.webp",
+      "describe": "Sting lon",
+      "price": 29000,
+      "quality": 50,
+      "type": "nuoc",
+      "id": "19"
+    },
+    {
+      "name": "Trà Dâu Hoa Hồng",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293765/nodmcofitlol3ygfudmz.webp",
+      "describe": "딸기 히비스커스 홍차",
+      "price": 29000,
+      "quality": 66,
+      "type": "nuoc",
+      "id": "20"
+    },
+    {
+      "name": "Trà Đào Sasin",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293778/qhuv8zxhzewrq7ziq3qe.webp",
+      "describe": "복숭아 홍차",
+      "price": 29000,
+      "quality": 96,
+      "type": "nuoc",
+      "id": "21"
+    },
+    {
+      "name": "Trà Sữa Trân Châu Sasin",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293806/nlodngdkpbaoqpipxzyp.webp",
+      "describe": "밀크 티",
+      "price": 29000,
+      "quality": 26,
+      "type": "nuoc",
+      "id": "22"
+    },
+    {
+      "name": "Trà Sữa Matcha",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293830/rjc9ckynfqzciweccrtr.webp",
+      "describe": "말차 밀크티",
+      "price": 29000,
+      "quality": 46,
+      "type": "nuoc",
+      "id": "23"
+    },
+    {
+      "name": "Sprite Size R",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293857/ed7mpkg8vw2nr3dohkye.webp",
+      "describe": "Sprite Size R",
+      "price": 23000,
+      "quality": 4,
+      "type": "nuoc",
+      "id": "24"
+    },
+    {
+      "name": "Coca Cola Size R",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293889/dp7mvzpo7gnaen5esn8i.webp",
+      "describe": "Coca Cola Size R",
+      "price": 23000,
+      "quality": 66,
+      "type": "nuoc",
+      "id": "25"
+    },
+    {
+      "name": "Coca Cola",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293912/ne7pffd3yg99pxciri3n.webp",
+      "describe": "Coca Cola",
+      "price": 29000,
+      "quality": 91,
+      "type": "nuoc",
+      "id": "26"
+    },
+    {
+      "name": "Sprite",
+      "image": "https://res.cloudinary.com/dj2mgmldt/image/upload/v1731293931/h9vuybgkjsc0gpptkdq4.webp",
+      "describe": "Sprite",
+      "price": 29000,
+      "quality": 82,
+      "type": "nuoc",
+      "id": "27"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "username": "a",
+      "password": "a"
+    }
+  ],
+  "orderHistory": [
+    {
+      "id": "e77f",
+      "username": "a",
+      "customerInfo": {
+        "name": "aan",
+        "phone": "0964367590",
+        "address": "HCM",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": "9",
+          "name": "Mì Soyum Đùi Gà",
+          "price": 59000,
+          "quantity": 3,
+          "total": 177000
+        }
+      ],
+      "totalAmount": 202000,
+      "totalQuantity": 3,
+      "date": "2024-11-20T00:45:07.246Z"
+    },
+    {
+      "id": "b0ba",
+      "username": "a",
+      "customerInfo": {
+        "name": "an",
+        "phone": "0964367590",
+        "address": "HCM",
+        "paymentMethod": "cod"
+      },
+      "items": [
+        {
+          "id": "2",
+          "name": "Mì Kim Chi Đùi Gà",
+          "price": 55000,
+          "quantity": 1,
+          "total": 55000
+        },
+        {
+          "id": "3",
+          "name": "Mì Kim Chi Hải Sản",
+          "price": 62000,
+          "quantity": 2,
+          "total": 124000
+        },
+        {
+          "id": "15",
+          "name": "Nước Gạo Hoa Anh Đào",
+          "price": 35000,
+          "quantity": 1,
+          "total": 35000
+        }
+      ],
+      "totalAmount": 239000,
+      "totalQuantity": 4,
+      "date": "2024-11-20T00:46:08.861Z"
+    }
+  ]
+}
